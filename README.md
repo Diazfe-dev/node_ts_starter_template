@@ -1,6 +1,4 @@
-Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
-
-Cada paso de su configuración ya se ha realizado previamente en el curso, por lo que solo es necesario clonar el proyecto y comenzar a trabajar.
+Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express.
 
 Instalación
 Clonar .env.template a .env y configurar las variables de entorno
